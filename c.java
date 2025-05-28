@@ -1,7 +1,9 @@
-import java.util.*;
-public class c{
+//14 25 -2 23 -3 -2 -3 -1 -1 22 26 
 
-    public  int[] ag(int arr[]){
+import java.util.*;
+public class c
+{
+   public  int[] ag(int arr[]){
         for(int i=0;i<arr.length;i++){
             if(arr[i]%4==0 && arr[i]%6!=0){
                arr[i]=-1;
@@ -12,24 +14,17 @@ public class c{
             else if(arr[i]%4==0 && arr[i]%6==0){
                arr[i]=-3;
             }
-           
-          
-        }
+       }
        return arr;
     }
     public static void main(String args[]){
         int arr[]={14,25,18,23,24,30,12,28,16,22,26};
         c obj=new c();
-        // int []res=obj.ag(arr); 
+        int []res=obj.ag(arr); 
 
-        // for(int i=0;i<res.length;i++ ){
+        for(int i=0;i<res.length;i++ ){
 
-        // System.out.print(arr[i]+" ");
-        // }
-
-  );
-
-
-       
+        System.out.print(arr[i]+" ");
+        }
     }
 }
