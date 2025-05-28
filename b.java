@@ -1,7 +1,14 @@
-// public class b {
-//     public static void main(String args[]){
+11111
+22222
+33333
+44444
+55555
     
-//         for(int i=1;i<=5;i++){
+// public class b 
+// {
+//     public static void main(String args[])
+//     {
+//        for(int i=1;i<=5;i++){
 //             for(int j=1;j<=5;j++){
 //                 System.out.print(i);
 //             }
@@ -11,10 +18,16 @@
 // }
 
 
-
-// public class b {
-//     public static void main(String args[]){
+55555
+44444
+33333
+22222
+11111
     
+// public class b 
+// {
+//     public static void main(String args[])
+//     {
 //         for(int i=5;i>=1;i--){
 //             for(int j=1;j<=5;j++){
 //                 System.out.print(i);
@@ -25,9 +38,16 @@
 // }
 
 
-// public class b {
-//     public static void main(String args[]){
+12345
+12345
+12345
+12345
+12345
     
+// public class b
+// {
+//     public static void main(String args[])
+//     {
 //         for(int i=1;i<=5;i++){
 //             for(int j=1;j<=5;j++){
 //                 System.out.print(j);
@@ -37,10 +57,18 @@
 //     }
 // }
 
-// public class b {
-//     public static void main(String args[]){
     
-//         for(int i=1;i<=5;i++){
+54321
+54321
+54321
+54321
+54321
+    
+// public class b
+// {
+//     public static void main(String args[])
+//     {
+//        for(int i=1;i<=5;i++){
 //             for(int j=5;j>=1;j--){
 //                 System.out.print(j);
 //             }
@@ -49,10 +77,17 @@
 //     }
 // }
 
-
-// public class b {
-//     public static void main(String args[]){
     
+EEEEE
+DDDDD
+CCCCC
+BBBBB
+AAAAA
+    
+// public class b 
+// {
+//     public static void main(String args[])
+//     {
 //         for(int i=5;i>=1;i--){
 //             for(int j=1;j<=5;j++){
 //                 System.out.print((char)(64+i));
@@ -63,25 +98,18 @@
 // }
 
 
-// public class b {
-//     public static void main(String args[]){
-    
-//         for(int i=5;i>=1;i--){
-//             for(int j=1;j<=5;j++){
-//                 System.out.print((char)(64+i));
-//             }
-//             System.out.println();
-//         }
-//     }
-// }
+abcde
+abcde
+abcde
+abcde
+abcde
 
-
-
-// public class b {
-//     public static void main(String args[]){
-    
-//         for(int i=5;i>=1;i--){
-//             for(int j=1;j<=5;j++){
+// public class b 
+// {
+//     public static void main(String args[])
+//     {
+//        for(int i=5;i>=1;i--){
+//           for(int j=1;j<=5;j++){
 //                 System.out.print((char)(96+j));
 //             }
 //             System.out.println();
@@ -89,18 +117,23 @@
 //     }
 // }
 
-
-
-
-public class b {
-    public static void main(String args[]){
     
-        for(int i=5;i>=1;i--){
-            for(int j=5;j>=1;j--){
-                System.out.print((char)(96+j));
-            }
-            System.out.println();
-        }
-    }
-}
+edcba
+edcba
+edcba
+edcba
+edcba
+    
+// public class b 
+// {
+//     public static void main(String args[])
+//     {
+//      for(int i=5;i>=1;i--){
+//             for(int j=5;j>=1;j--){
+//                 System.out.print((char)(96+j));
+//             }
+//             System.out.println();
+//         }
+//     }
+// }
 
